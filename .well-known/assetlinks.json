@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.minsidea_debug.twa",
+        "sha256_cert_fingerprints": ["36:5E:D5:48:7A:C6:26:D8:BA:BF:AB:5F:64:52:54:74:F7:06:F2:73:6D:8E:07:05:50:DC:2B:B5:0A:FD:0C:27"]
+      }
+    }]
